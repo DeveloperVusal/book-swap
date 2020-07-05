@@ -1,0 +1,3 @@
+export const OAUTH_LOGIN = 'OAUTH_LOGIN'
+export const OAUTH_REGISTR = 'OAUTH_REGISTR'
+export const ALERT_OAUTH_LOGIN = 'ALERT_OAUTH_LOGIN'
