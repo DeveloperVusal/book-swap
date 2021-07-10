@@ -7,6 +7,7 @@ import { AppPageBookAdd } from './pages/book-add'
 function App() {
   return (
     <BrowserRouter>
+    hello
       <Switch>
         <Route path={'/'} exact component={AppPageHome}/>
         <Route path={'/book-add'} component={AppPageBookAdd} />
